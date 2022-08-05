@@ -1,5 +1,5 @@
 namespace:
-  name: test
+  name: demo
  
 image:
   repository: nginx 
